@@ -17,7 +17,7 @@ http://meteortips.com/second-meteor-tutorial
 1. User Accounts
 1. Routing, Part 3
 1. Validation
-  * ~~... stuff ...~~
+	* ~~stuff~~
 	* **Error Messages**
 	* Refactored Rules
 	* Submit Handler
