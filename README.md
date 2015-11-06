@@ -18,7 +18,7 @@ http://meteortips.com/second-meteor-tutorial
 1. Routing, Part 3
 1. Validation
 	* ~~stuff~~
-	* **Error Messages**
+	* ~~Error Messages~~
 	* Refactored Rules
 	* Submit Handler
 	* Showing Errors
