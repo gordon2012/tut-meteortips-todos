@@ -20,7 +20,7 @@ http://meteortips.com/second-meteor-tutorial
 	* ~~stuff~~
 	* ~~Error Messages~~
 	* ~~Refactored Rules~~
-	* Submit Handler
+	* ~~Submit Handler~~
 	* Showing Errors
 1. Publish & Subscribe
 1. Methods, Part 1
